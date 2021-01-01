@@ -1,0 +1,29 @@
+bot : Hi There! I am a medical chatbot. You can begin conversation by typing in a message and pressing enter.
+user : My name is Rahul
+bot : - Hello! your name has been stored. What is your age?
+user : My age is 18
+bot : - okay. your age has been stored. Which city do you live in?
+user : safaf
+bot : - good to know. how may i assist you then?
+user : Hi
+bot : - Hello. How are you feeling today?
+user : I am cold
+bot : - okay. your age has been stored. Which city do you live in?
+user : dzg
+bot : .. fgghfhfghfhfhg
+user : Hi
+bot : - Hello. How are you feeling today?
+user : I have cold
+bot : - You should take a tylenol tablet after your meal.
+user : I took the tablet
+bot : - Good, now take some rest and then let me know if you are feeling better after having tylenol tablet.
+user : No, I am still not feeling well
+bot : - okay. can you tell me what's wrong? what are your symptoms?
+user : I have cold
+bot : - You should take a tylenol tablet after your meal.
+user : I took the tablet
+bot : - Good, now take some rest and then let me know if you are feeling better after having tylenol tablet.
+user : No, i am still not felling better after having tylenol tablet.
+bot : - Ok, its not just a normal cold, you should consult a doctor.
+user : Can you book an appointment
+bot : > Yes, select any hospital listed below. and type address of 'Hospital name' to check the address of the hospital.

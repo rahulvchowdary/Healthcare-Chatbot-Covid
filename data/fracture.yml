@@ -1,0 +1,50 @@
+- - my hand is aching.
+  - okay, did you get hurt, or it is a suddern aching.
+- - my leg is aching.
+  - okay, did you get hurt, or it is a suddern aching.
+- - my joint is aching.
+  - okay, did you get hurt, or it is a suddern aching.
+- - yes i got hurt.
+  - ok, is there a swelling or a physical deformity or bleeding at the aching region. 
+- - it is a mild ache.
+  - ok, is there a swelling or a physical deformity or bleeding at the aching region.
+- - yes there is a swelling
+  - okay, it is a common symptom of fracture, should I book an an appointment for you.
+- - yes there is a physical deformity.
+  - okay, it is a common symptom of fracture, should I book an an appointment for you.
+- - yes it is bleeding.
+  - okay, it is a common symptom of fracture, should I book an an appointment for you.
+- - yes i want to book an appointment.
+  - Yes, select any hospital listed below. and type address of 'Hospital name' to check the address of the hospital. 1.Apollo Hospitals 2.Medicover Hospitals 3.Care Hospitals 4.Remedy Hospitals 5.Landmark Hospitals 6.KIIMS Hospital
+- - Address of Apollo Hospitals.
+  - Apollo Hospitals,  Number 72, opp. Bharatiya Vidya Bhavan School, Jubilee Hills, Hyderabad, Telangana 500033.
+- - Confirm the appointment at Apollo Hospital.
+  - Appointment confirmed. Have a good day.
+- - Address of Medicover Hospitals.
+  - Medicover Hospitals, behind Cyber Towers, In the Lane of IBIS Hotels, HUDA Techno Enclave, HITEC City, Hyderabad, Telangana 500081.
+- - Confirm the appointment at Medicover Hospitals.
+  - Appointment confirmed. Have a good day.
+- - Address of Care Hospitals.
+  - Care hospitals, Exhibition Grounds, Road, Nampally, Hyderabad, Telangana 500001.
+- - Confirm the appointment at Care Hospitals.
+  - Appointment confirmed. Have a good day.
+- - Address of Remedy Hospitals.
+  - Remedy Hospitals, Rd Number 4, opp. Chandana Brothers Show Room, Kukatpally Housing Board Colony, Kukatpally, Hyderabad, Telangana 500072.
+- - Confirm the appointment at Remedy Hospitals.
+  - Appointment confirmed. Have a good day.
+- - Address of Landmark Hospitals.
+  - Landmark Hospitals, Metro Station, Near JNTU, Arch Main Road, opp. Vasantha Nagar, Hydernagar, Kukatpally, Hyderabad, Telangana 500085.
+- - Confirm the appointment at Landmark Hospitals.
+  - Appointment confirmed. Have a good day.
+- - Address of KIIMS Hospital.
+  - KIIMS Hospital, 1st Floor, Building No 17, Omnitech InfoSolutions, Main Road, Goutam Nagar, Subhash Nagar, Badi Chowdi, Kachiguda, Hyderabad, Telangana 501301.
+- - Confirm the appointment at KIIMS Hospitals.
+  - Appointment confirmed. Have a good day.
+- - my hand is paining.
+  - okay, did you get hurt, or it is a suddern paining.
+- - my leg is paining.
+  - okay, did you get hurt, or it is a suddern paining.
+- - my joint is paining.
+  - okay, did you get hurt, or it is a suddern paining.
+- - yes i got hurt.
+  

@@ -1,0 +1,36 @@
+- - Is a doctor available ?
+  - Sorry, all doctors are occupied at the moment. We will connect you to a doctor soon. Do you want to book an appointment?
+- - Hi can i see a doctor ?
+  - All doctors are attending patients. we shall revert to your request soon. Do you want to book an appointment?
+- - I want to talk to a doctor
+  - You shall be called once the doctor is available. Do you want to book an appointment?
+- - Can you book an apointment with a doctor?
+  - Yes, select any hospital listed below. and type address of 'Hospital name' to check the address of the hospital. 1.Apollo Hospitals 2.Medicover Hospitals 3.Care Hospitals 4.Remedy Hospitals 5.Landmark Hospitals 6.KIIMS Hospital
+- - Address of Apollo Hospitals.
+  - Apollo Hospitals,  Number 72, opp. Bharatiya Vidya Bhavan School, Jubilee Hills, Hyderabad, Telangana 500033.
+- - Confirm the appointment at Apollo Hospital.
+  - Appointment confirmed. Have a good day.
+- - Address of Medicover Hospitals.
+  - Medicover Hospitals, behind Cyber Towers, In the Lane of IBIS Hotels, HUDA Techno Enclave, HITEC City, Hyderabad, Telangana 500081.
+- - Confirm the appointment at Medicover Hospitals.
+  - Appointment confirmed. Have a good day.
+- - Address of Care Hospitals.
+  - Care hospitals, Exhibition Grounds, Road, Nampally, Hyderabad, Telangana 500001.
+- - Confirm the appointment at Care Hospitals.
+  - Appointment confirmed. Have a good day.
+- - Address of Remedy Hospitals.
+  - Remedy Hospitals, Rd Number 4, opp. Chandana Brothers Show Room, Kukatpally Housing Board Colony, Kukatpally, Hyderabad, Telangana 500072.
+- - Confirm the appointment at Remedy Hospitals.
+  - Appointment confirmed. Have a good day.
+- - Address of Landmark Hospitals.
+  - Landmark Hospitals, Metro Station, Near JNTU, Arch Main Road, opp. Vasantha Nagar, Hydernagar, Kukatpally, Hyderabad, Telangana 500085.
+- - Confirm the appointment at Landmark Hospitals.
+  - Appointment confirmed. Have a good day.
+- - Address of KIIMS Hospital.
+  - KIIMS Hospital, 1st Floor, Building No 17, Omnitech InfoSolutions, Main Road, Goutam Nagar, Subhash Nagar, Badi Chowdi, Kachiguda, Hyderabad, Telangana 501301.
+- - Confirm the appointment at KIIMS Hospitals.
+  - Appointment confirmed. Have a good day.
+- - Patient Name Date Time Doctor Hospital
+  - appointment details saved. you shall be contacted shortly.
+- - thanks
+  - happy to help!
